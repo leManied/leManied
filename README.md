@@ -1,8 +1,8 @@
-Hello dear ! I'm Manied, a french canadian who loves coding and learning about techs.
-Currently, i know only few things about coding.
+Hello there ! I'm Damien, a french canadian who loves coding and learning about techs.
+Currently, I'm working as a entrepreneur in the cryptocurrencies field.
 
-I'm mainly learning Python, but I know also basics about CSharp.
-  The projects in my GitHub will be only for "backup". If you want to take them and modify them, you can !
-  My little projects will be Open-Source, so if someone see something to do or something that helps, take what do you want.
-  
-Python is love, Python is life
+I know pretty well Python, CSharp has been my first programming language at 12 so I'm a bit rusty.
+The projects on my GitHub are open-source and mainly aimed towards a vision of decentralized web3. 
+Even though my company, DTechno, is aiming to be profitable, we have a vision of business different of mainstream big tech.
+Our goal is to create web services with a brand new vision : user-owner
+You can learn more about that on our website : https://www.dtechno.ca/vision
